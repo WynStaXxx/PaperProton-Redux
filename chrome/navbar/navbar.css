@@ -5,6 +5,10 @@
     background-color: var(--toolbar-bgcolor) !important;
 }
 
+#nav-bar {
+    height: 36px !important;
+}
+
 #reload-button[disabled]:not(:-moz-window-inactive)>.toolbarbutton-icon {
     opacity: 1 !important;
 }
